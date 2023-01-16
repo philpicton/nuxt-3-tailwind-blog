@@ -1,4 +1,4 @@
-# Nuxt 3, Tailwind, Nuxt Content, Headless cms, Lambda contact form
+# Nuxt 3, Tailwind, Nuxt Content, Headless cms, Cloudflare functions contact form
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
@@ -44,7 +44,7 @@ Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) f
 ---
 
 ## Using this project
-
+nb this is a wip - docs to come
 ### 1. Setting up your email sender
 
 ### 2. Customising for your purposes
